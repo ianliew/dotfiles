@@ -29,6 +29,11 @@ Last tested on macOS Catalina 10.15.1
 * `Tick` Display login window as > Name and password
 * `Tick` Show fast user switching menu as "Full Name"
 
+### Keyboard
+###### Keyboard
+###### Modifier Keys...
+Caps Lock Key: `Escape`
+
 ### Trackpad
 ###### Point & Click
 * `Untick` Look up & data detectors
@@ -39,8 +44,8 @@ Last tested on macOS Catalina 10.15.1
 * `Untick` all
 
 ###### More Gestures
-`Tick` Swipe between pages "two fingers"
-`Tick` Swipe between full-screen apps "four fingers"
+* `Tick` Swipe between pages "two fingers"
+* `Tick` Swipe between full-screen apps "four fingers"
 
 ## Configure Sublime
 #### Preferences
@@ -57,10 +62,9 @@ https://packagecontrol.io/installation
 * MarkdownPreview
 * Trailing​Spaces
 
-
 ## REF
-https://driesvints.com/blog/getting-started-with-dotfiles
-https://github.com/driesvints/dotfiles
-https://github.com/mathiasbynens/dotfiles
-https://dotfiles.github.io
-http://sourabhbajaj.com/mac-setup/SystemPreferences/
+* https://driesvints.com/blog/getting-started-with-dotfiles
+* https://github.com/driesvints/dotfiles
+* https://github.com/mathiasbynens/dotfiles
+* https://dotfiles.github.io
+* http://sourabhbajaj.com/mac-setup/SystemPreferences/
